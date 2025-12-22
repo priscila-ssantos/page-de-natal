@@ -41,13 +41,13 @@ const numSnowflakes = 120;
     requestAnimationFrame(animateSnow);
   }
 
-   function gerarMensagem() {
+   function Cliqueparaabrir() {
     const mensagens = [
       "Que o Natal traga paz ao seu coração,\namor aos seus dias\ne esperança para um novo começo.\n\n ✨🎅",
-      "Desejo que a luz do nosso Senhor Deus ilumine seus caminhos\ne que 2026 venha com saúde, amor e fé.\n\nFeliz Natal 🌟",
-      "Que nunca falte esperança,\nabraços sinceros\ne motivos para sorrir.\n\nUm Natal abençoado 🍾🎉\n",
-      "Neste Natal, o Senhor Jesus\nrenove sua fé te enchendo de força e realize seus sonhos.\n\nBoas Festas! 🎅",
-      "Que o Espírito Santo do nosso Senhor Jesus cristo encha sua casa\nde alegria, amor e muita luz.\n\nFeliz Natal e um próspero 2026! 🎆"
+      "Desejo que a luz do nosso Senhor Deus ilumine seus caminhos\ne que 2026 venha com saúde, amor e fé.\n\nFeliz Natal! 🌟",
+      "Que nunca falte esperança,\nabraços sinceros,\ne motivos para sorrir.\n\nUm Natal abençoado 🍾🎉\n",
+      "Neste Natal, o Senhor Jesus\nrenove sua fé, te enchendo de força e realize seus sonhos.\n\nBoas Festas! 🎅",
+      "Que o Espírito Santo do nosso Senhor Jesus Cristo encha sua casa\nde alegria, amor e muita luz.\n\nFeliz Natal e um próspero 2026! 🎆"
 
       
     ];
