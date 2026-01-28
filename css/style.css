@@ -94,7 +94,7 @@
    color: #ffffff;
    margin: 0;
    font-size: 15px;
-   font-weight: bold;
+  
    display: flex;
    justify-content: center;
    align-items: center;
@@ -106,7 +106,7 @@
  .copy-link {
    color: #ffffff;
    text-decoration: none;
-   font-weight: bold;
+
    display: inline-flex;
    align-items: center;
    gap: 6px;
@@ -114,6 +114,7 @@
  .copy-link:hover .link-text{
    text-decoration: underline;
    color: #131212;
+   font-weight: bold;
  }
 .copy-link i {
    font-size: 16.5px;
